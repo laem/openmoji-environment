@@ -39,13 +39,13 @@
      inkscape:window-height="1136"
      id="namedview29"
      showgrid="false"
-     inkscape:zoom="19.463548"
-     inkscape:cx="44.330407"
-     inkscape:cy="46.041766"
+     inkscape:zoom="9.731774"
+     inkscape:cx="18.979586"
+     inkscape:cy="35.666767"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="emoji"
+     inkscape:current-layer="g962"
      inkscape:document-rotation="0" />
   <g
      id="g894"
@@ -72,6 +72,13 @@
      fill="#9b9b9a"
      d="m 70.24,10.5062 a 0.8469,0.8469 0 0 0 -0.17,-0.04 c -0.01,-0.05 -0.03,-0.1 -0.04,-0.14 a 1.68,1.68 0 0 1 0.21,0.18 z"
      id="path6" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.96384;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+     id="rect860"
+     width="5.9407854"
+     height="56.125504"
+     x="59.254589"
+     y="7.7664695" />
   <g
      id="g962"
      transform="matrix(1,0,0,1.4602522,-49.961439,-0.22400974)">
@@ -84,7 +91,31 @@
        id="rect2070"
        style="stroke-width:1.09706" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.87661;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="108.66139"
+       y="16.205534"
+       width="7.2211709"
+       height="4"
+       fill="#ea5a47"
+       id="rect2070-3"
+       style="stroke-width:1.09706" />
+    <rect
+       x="108.6611"
+       y="23.895386"
+       width="7.2211709"
+       height="4"
+       fill="#ea5a47"
+       id="rect2070-6"
+       style="stroke-width:1.09706" />
+    <rect
+       x="108.49218"
+       y="31.644499"
+       width="7.2211709"
+       height="4"
+       fill="#ea5a47"
+       id="rect2070-7"
+       style="stroke-width:1.09706" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.65506884;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect2068"
        width="5.9407849"
        height="37.883278"
