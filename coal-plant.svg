@@ -40,12 +40,12 @@
      id="namedview29"
      showgrid="false"
      inkscape:zoom="9.731774"
-     inkscape:cx="18.979586"
-     inkscape:cy="35.666767"
+     inkscape:cx="22.386721"
+     inkscape:cy="44.87411"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g962"
+     inkscape:current-layer="emoji"
      inkscape:document-rotation="0" />
   <g
      id="g894"
@@ -81,7 +81,7 @@
      y="7.7664695" />
   <g
      id="g962"
-     transform="matrix(1,0,0,1.4602522,-49.961439,-0.22400974)">
+     transform="matrix(1,0,0,1.4602522,-47.79099,0.47567812)">
     <rect
        x="108.60752"
        y="8.3709822"
@@ -115,7 +115,7 @@
        id="rect2070-7"
        style="stroke-width:1.09706" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.65506884;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.65507;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect2068"
        width="5.9407849"
        height="37.883278"
@@ -124,22 +124,8 @@
        ry="0" />
   </g>
   <g
-     id="g938"
-     transform="matrix(0.88956736,0,0,0.88956736,-13.863625,7.4283537)">
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 69.981465,65.992274 81.932233,48.018906 93.551319,66.034643 Z"
-       id="path887"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 62.289952,66.001941 72.609309,54.629823 82.031266,66.04431 Z"
-       id="path887-3"
-       sodipodi:nodetypes="cccc" />
-  </g>
-  <g
      id="g928"
-     transform="translate(-6.111993,-0.3795657)">
+     transform="matrix(0.89475413,0,0,0.89475413,-4.27502,2.5040101)">
     <path
        fill="none"
        stroke="#000000"
@@ -159,21 +145,21 @@
      d="m 38.084907,65.620434 c -5,-6.1714 -8,-26.7429 -5,-36 h -23.1969 c 3,9.2571 0,29.8286 -5,36 z"
      id="path21" />
   <rect
-     style="fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:2.95737;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+     style="fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:3.03838;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
      id="rect931"
-     width="24.134634"
+     width="25.474977"
      height="16.845562"
-     x="14.544498"
-     y="48.270676"
+     x="16.744005"
+     y="48.240582"
      ry="7.9780617"
      rx="0" />
   <rect
-     style="fill:#808080;stroke:none;stroke-width:2.70752;stroke-linejoin:round;paint-order:markers stroke fill"
+     style="fill:#808080;stroke:none;stroke-width:2.45635;stroke-linejoin:round;paint-order:markers stroke fill"
      id="rect854"
-     width="12.472363"
+     width="10.26564"
      height="16.944353"
-     x="14.552274"
-     y="48.160698"
+     x="16.758997"
+     y="48.057941"
      ry="0"
      rx="0" />
   <path
@@ -181,4 +167,18 @@
      d="m 37.868735,44.420445 5.236702,0.02375 13.611224,5.191924"
      id="path856"
      sodipodi:nodetypes="ccc" />
+  <g
+     id="g938"
+     transform="matrix(0.88956736,0,0,0.88956736,-13.247089,7.4283537)">
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:1.46138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 69.923709,65.76125 81.874477,47.787882 93.493563,65.803619 Z"
+       id="path887"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:1.46138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 62.232196,65.770917 72.551553,54.398799 81.97351,65.813286 Z"
+       id="path887-3"
+       sodipodi:nodetypes="cccc" />
+  </g>
 </svg>
