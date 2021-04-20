@@ -39,13 +39,13 @@
      inkscape:window-height="1136"
      id="namedview34"
      showgrid="false"
-     inkscape:zoom="9.3251858"
-     inkscape:cx="9.3950162"
-     inkscape:cy="39.167001"
+     inkscape:zoom="33.458455"
+     inkscape:cx="41.245904"
+     inkscape:cy="19.261726"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="line-2" />
+     inkscape:current-layer="g1759" />
   <g
      id="color"
      transform="matrix(-0.94836038,-0.31719488,-0.31719488,0.94836038,81.007892,13.18816)">
@@ -207,7 +207,8 @@
            stroke-miterlimit="10"
            stroke-width="2"
            d="M 45.8565,36.851 C 38.8077,43.3665 33.3797,47.2823 29.9862,49.4583 l -7.6389,-7.6751 c 2.1789,-3.3949 6.0918,-8.8147 12.5932,-15.8482 4.7694,-5.1598 9.7635,-9.9137 13.8015,-12.4485 2.9438,-1.8479 6.597,-1.5717 8.8659,0.6971 v 0 c 2.2688,2.2688 2.5449,5.9222 0.697,8.8659 -2.5347,4.038 -7.2887,9.0321 -12.4484,13.8015"
-           id="path26" />
+           id="path26"
+           style="stroke-width:2.45345175;stroke-miterlimit:10;stroke-dasharray:none" />
         <line
            x1="27.430401"
            x2="36.569099"
@@ -219,7 +220,8 @@
            stroke-linejoin="round"
            stroke-miterlimit="10"
            stroke-width="2"
-           id="line30" />
+           id="line30"
+           style="stroke-width:2.45345175;stroke-miterlimit:10;stroke-dasharray:none" />
         <path
            style="fill:#b1cc33;fill-opacity:1;stroke:#000000;stroke-width:2.5561;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 15.716045,35.332615 20.113706,20.113706 c 0,0 -7.444678,7.501606 -9.56164,8.729145 -3.0781,1.784863 -8.452894,0.733987 -8.452894,0.733987 L 13.347855,60.442092 12.565418,59.659654 11.62411,58.718347 -4.132385,42.961852 c 0,0 7.6446351,1.201709 10.1271273,-0.326229 2.4824922,-1.527934 9.7213027,-7.303008 9.7213027,-7.303008 z"
