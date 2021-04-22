@@ -54,8 +54,8 @@
 			<g id="Line_1_">
 				<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M45.595,45.01"/>
 				<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M45.3709,28.735"/>
-				
-					<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="26.6324" y1="28.735" x2="26.6311" y2="45.2638"/>
+				<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M26.6311,45.2638"/>
+				<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M26.6324,28.735"/>
 				<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M45,29.0136C46.6725,27.755,48.7456,27,51,27
 					c5.5228,0,10,4.4771,10,10c0,5.5228-4.4772,10-10,10c-2.2544,0-4.3275-0.755-6-2.0136V29.0136z"/>
 				<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M27,29.0136C25.3275,27.755,23.2544,27,21,27
@@ -69,7 +69,7 @@
 	eJzsvWmzJMeVHfgdZvgPOR/aBGqE174vnLExe2uLGlKkkWypx3pksGLhgSx1LZhCoSnq188553pE
 ZoZH1isSIFEzjQoSQKV7uHv4cv2u5/7d//Kr33x+/eWb3z1+Hq/c4dNP/u7vbt8+Pnv35u1PD/r5
 8LOXL7/95t1b/vTZr39y8PXKsdb1z9oXo+Z/eXz7zYs3r3+qMit94Puf/fYPL3737NuX735y+Own
-/PW3L969fMTvt78MV9/86+9/svaGt++evUNR+vsQ/j644A/tpyEefvULVXn2+l+fffPNi/+JCr7E
+/PW3L969fMTvt78MV9/86+9/svaGt++evUNR+vsQ/j644A/tp6kefvULVXn2+l+fffPNi/+JCr7E
 FvnjzZtvX3/54vXvb978D/zqDp9nfyjh8HlQ6X988evHb+Yq7iqPSleZ1e7ePP/21ePrd796++b5
 4zff3L55+ebtNz893P7p2evDL579HiXPDv/X48uXb/54uHn57Pm/4J3rn+UvHl68fMQXvnr27uCj
 Pvj6Zz58cfPti5df/udvX/3uER8fctHv8Qu1+o/foDm0zP/W7/WLn73CT795fPcOQ0Sn7nRAt5jy
@@ -5412,9 +5412,9 @@ uFTCRViAahBshAXRKsULaKnQhlY1ncDnkTst2Q96dESXYTpoycDTCXxi6EnB2IIQ+GA082ArgcRl
 sKHGETRk0XQhTkPCnqOB23gGmy2gAcEEotEnCXrbA/fkiUVN0zGa4VThgBvjVCgwBjA8MqRSrKDn
 LrD5aFl2Efz0bynQtCmVn9esxDsxpTJIY0c4qZecLN5TMGawQvAoWPwcbenhkC5NJBMSwYiZwTAt
 KZ3/x+TrCh4fatqiWyuI1//lPhXQDqQf2skksAIWSKD60T4vRgCUSZZFPHyjUBZesvAU+gUdY5DM
-AEdFQNYnyC4QhExS15xBPgvDwqDgfwzyLKya41bgngCbgLZM0LgPoA8EYCuWopBQrOn78J/25f8v
-7Mv5f9qXq9iXc0f5Zy0U9+rtT7E5a/eHSCR+ztt/iNvt8RiFh8UpvNr+nInzxWQmbs+/Jn+iJ+gj
-9YO9veJVaetf/y/dP6rp
+AEdFQNYnyC4QhExS15xBPgs4HsAAoAcTNIYOkl4AhmEpCok7U3OGBRrA/xjkiDhC/09D8/8vhub8
+Pw3NVQzNuaMgtJaOe/X2p9ictftDJBs/5+0/xO32eIzixOIUXm1/zsT5YjITt+dfkz/RE/SR+sHe
+XvGqtPWv/xcyYayR
 	]]>
 </i:pgf>
 </svg>
