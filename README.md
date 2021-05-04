@@ -1,5 +1,12 @@
 # openmoji-environment
 
+| CO2                        | Methane                      |
+|----------------------------|------------------------------|
+| ![image](co2.svg)          | ![image](methane.svg)        |
+| Coal Plant                 | Coal mine excavator          |
+| ![image](coal-plant.svg)   | ![image](coal-excavator.svg) |
+| Greenwashing               |                              |
+| ![image](greenwashing.svg) |                              |
 
 Complete the open source emoji set *openmoji* with more environmental emojis. 
 
