@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="emoji"
    viewBox="0 0 72 72"
    version="1.1"
-   sodipodi:docname="radiative-forcing.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   sodipodi:docname="greenhouse-effect.svg"
+   inkscape:version="1.1.1 (1:1.1+202109281954+c3084ef5ed)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata41">
     <rdf:RDF>
@@ -20,7 +20,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,16 +35,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1136"
+     inkscape:window-height="1056"
      id="namedview37"
      showgrid="false"
-     inkscape:zoom="14.790317"
-     inkscape:cx="36.560892"
-     inkscape:cy="26.751802"
+     inkscape:zoom="7.8168409"
+     inkscape:cx="27.440753"
+     inkscape:cy="26.609215"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="color" />
+     inkscape:current-layer="color"
+     inkscape:pagecheckerboard="0" />
   <g
      id="color">
     <path
@@ -54,7 +54,7 @@
        id="path866-3-6"
        sodipodi:nodetypes="csssc" />
     <path
-       style="fill:#b1cc33;fill-opacity:1;stroke:#000000;stroke-width:2.23595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#b1cc33;fill-opacity:1;stroke:#000000;stroke-width:1.51181102;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 51.32045,51.706666 c 0,0 6.611105,0.12948 11.107294,-2.466394 4.49619,-2.595875 6.201034,-2.709428 6.201034,-2.709428 l -0.1731,11.039957 -20.869113,-1.159057 z"
        id="path872"
        sodipodi:nodetypes="cscccc" />
@@ -64,7 +64,7 @@
        id="path866-3"
        sodipodi:nodetypes="csssc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.02268;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:1.51181102;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 4.0992728,57.570801 c 14.1892882,-4.461885 46.7993482,-4.319048 64.3564052,0"
        id="path866"
        sodipodi:nodetypes="cc" />
@@ -74,7 +74,7 @@
        id="path892"
        sodipodi:nodetypes="ccccccccccccc" />
     <circle
-       style="fill:#fcea2b;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
+       style="fill:#fcea2b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1"
        id="path934"
        cx="60.110714"
        cy="10.569907"
