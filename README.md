@@ -1,17 +1,17 @@
 # openmoji-environment
 
-|                              |                                 |
-| ---------------------------- | ------------------------------- |
-| CO2e on a trone              | CO2                             |
-| ![image](co2e.svg)           | ![image](co2.svg)               |
-| Methane                      | Nitrous oxide                   |
-| ![image](methane.svg)        | ![image](n2o.svg)               |
-| Coal Plant                   | Coal mine excavator             |
-| ![image](coal-plant.svg)     | ![image](coal-excavator.svg)    |
-| Greenwashing                 | Greenhouse effect               |
-| ![image](greenwashing.svg)   | ![image](greenhouse-effect.svg) |
-| Climate change               |                                 |
-| ![image](climate-change.svg) |                                 |
+|                              |                                        |
+| ---------------------------- | -------------------------------------- |
+| CO2e on a trone              | CO2                                    |
+| ![image](co2e.svg)           | ![image](co2.svg)                      |
+| Methane                      | Nitrous oxide                          |
+| ![image](methane.svg)        | ![image](n2o.svg)                      |
+| Coal Plant                   | Coal mine excavator                    |
+| ![image](coal-plant.svg)     | ![image](coal-excavator.svg)           |
+| Greenwashing                 | Electricity greenwashing               |
+| ![image](greenwashing.svg)   | ![image](electricity-greenwashing.svg) |
+| Climate change               | Greenhouse effect                      |
+| ![image](climate-change.svg) | ![image](greenhouse-effect.svg)        |
 
 Complete the open source emoji set _openmoji_ with more environmental emojis.
 
