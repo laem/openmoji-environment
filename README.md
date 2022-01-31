@@ -6,6 +6,8 @@
 | ![image](co2e.svg)           | ![image](co2.svg)                      |
 | Methane                      | Nitrous oxide                          |
 | ![image](methane.svg)        | ![image](n2o.svg)                      |
+| Coal rock                   | Gaz flame                    |
+| ![image](coal.svg)     | ![image](gas.svg)           |
 | Coal Plant                   | Coal mine excavator                    |
 | ![image](coal-plant.svg)     | ![image](coal-excavator.svg)           |
 | Greenwashing                 | Electricity greenwashing               |
