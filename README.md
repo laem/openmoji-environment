@@ -14,6 +14,8 @@
 | ![image](greenwashing.svg)   | ![image](electricity-greenwashing.svg) |
 | Climate change               | Greenhouse effect                      |
 | ![image](climate-change.svg) | ![image](greenhouse-effect.svg)        |
+| Energy                       |                                        |
+| ![image](energy.svg)         |                                        |
 
 Complete the open source emoji set _openmoji_ with more environmental emojis.
 
